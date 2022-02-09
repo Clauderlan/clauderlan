@@ -1,7 +1,7 @@
 
 # ✊🏾 💫 Clauderlan Batista 💫
-* 🎓 Cursando Desenvolvimento de Sistemas
-* 📚 Estudando JavaScript
+* 🎓 Studying Systems Analysis and Development
+* 📚 JavaScript Aspiring
 * ✨ Focusing on Front-End
 
 <div align="center">
