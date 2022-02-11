@@ -1,6 +1,6 @@
 
 # ✊🏾 💫 Clauderlan Batista 💫
-* 🎓 Studying Systems Analysis and Development
+* 🎓 Studying Systems Analysis and Development (Federal Institute of Alagoas)
 * 📚 JavaScript Aspiring
 * ✨ Focusing on Front-End
 
