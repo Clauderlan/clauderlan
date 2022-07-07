@@ -2,7 +2,7 @@
 # ✊🏾 💫 Clauderlan Batista 💫
 * 🎓 Studying Systems Analysis and Development (Federal Institute of Alagoas)
 * 📚 JavaScript Aspiring
-* ✨ Focusing on Front-End
+* ✨ Focusing on Back-End
 
 <div align="center">
   <a href="https://github.com/Clauderlan">
