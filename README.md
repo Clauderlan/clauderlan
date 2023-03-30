@@ -1,5 +1,5 @@
 
-# ✊🏾 💫 Clauderlan Batista 💫
+# 💫 Clauderlan Batista 💫
 * 🎓 Studying Systems Analysis and Development (Federal Institute of Alagoas)
 * 📚 JavaScript / Java Aspiring
 * ✨ Focusing on Back-End Java
@@ -31,6 +31,7 @@
 
 # Currently learning
 <div style ="display: inline-block">
-  <img alt="Clauderlan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="Clauderlan-Node"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img alt="Clauderlan-Java"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+
 </div>
