@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Clauderlan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauderlan&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clauderlan&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
 <div style="display: inline_block" align = 'center'><br>
