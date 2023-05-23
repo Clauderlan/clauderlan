@@ -32,6 +32,5 @@
 
 # Currently learning
 <div style ="display: inline-block">
-  <img alt="Clauderlan-Node"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img alt ="Clauderlan-Spring" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 </div>
