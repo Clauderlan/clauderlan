@@ -1,6 +1,6 @@
 
 #  Clauderlan Batista #7
-* 🎓 Graduated in Systems Analysis and Development at <a href="https://www2.ifal.edu.br/">IFAL</a> (Federal Institute of Alagoas) - Technical degree
+* 🎓 Graduated in Systems Development at <a href="https://www2.ifal.edu.br/">IFAL</a> (Federal Institute of Alagoas) - Technical degree
 * 🎓 Computer Science Student at <a href="https://ufal.br/">UFAL</a> (Federal University of Alagoas)
 * 📚 JavaScript / Java Aspiring
 * ✨ Focusing on Back-End with Java
