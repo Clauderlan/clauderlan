@@ -1,9 +1,14 @@
 
 #  Clauderlan Batista #7
+
+
+<p style="font-family: cursive" >I like to study and learn new things that can make an impact on the world especially. I am naturally motivated to solve problems. </p>
+
 * 🎓 Graduated in Systems Development at <a href="https://www2.ifal.edu.br/">IFAL</a> (Federal Institute of Alagoas) - Technical degree
 * 🎓 Computer Science Student at <a href="https://ufal.br/">UFAL</a> (Federal University of Alagoas)
 * 📚 JavaScript / Java Aspiring
 * ✨ Focusing on Back-End with Java
+<br>
 
 <div align="center">
   <a href="https://github.com/Clauderlan">
