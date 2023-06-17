@@ -1,6 +1,7 @@
 
 #  Clauderlan Batista #7
-* 🎓 Studying Systems Analysis and Development (Federal Institute of Alagoas)
+* 🎓 Graduated in Systems Analysis and Development at <a href="https://www2.ifal.edu.br/">IFAL</a> (Federal Institute of Alagoas) - Technical degree
+* 🎓 Computer Science Student at <a href="https://ufal.br/">UFAL</a> (Federal University of Alagoas)
 * 📚 JavaScript / Java Aspiring
 * ✨ Focusing on Back-End with Java
 
@@ -33,4 +34,5 @@
 # Currently learning
 <div style ="display: inline-block">
   <img alt ="Clauderlan-Spring" height="28" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img style="background-color:#000000" alt ="Clauderlan-C" height="28" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" />
 </div>
